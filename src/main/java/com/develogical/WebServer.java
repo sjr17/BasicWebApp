@@ -55,6 +55,7 @@ public class WebServer {
     /* test comment to test new commit build */
     /* new test commit to test auto heroku deployment */
     new WebServer();
+    this should make the compiler fail and therefore should not deploy
   }
 
 }
